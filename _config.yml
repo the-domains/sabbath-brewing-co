@@ -1,0 +1,14 @@
+layout_spectrum: 1
+color:
+  saturation: 0.6127819
+  brandStrength: 0.8802363
+  lightness: 0.124855
+  brandColors:
+    - '#000000'
+    - '#FFFFFF'
+    - '#F4DAAB'
+    - '#C6E0F1'
+    - '#435F6F'
+  rhythmicContrast: 0.4396635
+typography_spectrum: 0.5934479
+name: Sabbath Brewing Co.
