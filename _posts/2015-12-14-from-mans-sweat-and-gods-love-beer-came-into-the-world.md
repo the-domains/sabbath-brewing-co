@@ -1,11 +1,11 @@
 ---
 description: '“From man’s sweat and God’s love, beer came into the world.” St. Arnold (alt: Arnulf/Arnoul/Arnoulf), Bishop of Metz 612 AD.'
 author: []
-datePublished: '2015-12-14T21:31:00.684Z'
+datePublished: '2015-12-16T22:40:32.113Z'
 publisher:
   domain: ''
   name: ''
-dateModified: '2015-12-14T21:28:44.435Z'
+dateModified: '2015-12-14T21:31:00.684Z'
 title: ''
 sourcePath: _posts/2015-12-14-from-mans-sweat-and-gods-love-beer-came-into-the-world.md
 published: true
