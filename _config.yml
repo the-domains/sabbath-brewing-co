@@ -1,14 +1,28 @@
+name: Sabbath Brewing Co.
+favicon: null
 layout_spectrum: 1
+typography_spectrum: 0.5934479
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.6127819
-  brandStrength: 0.8802363
-  lightness: 0.124855
   brandColors:
     - '#000000'
     - '#FFFFFF'
     - '#F4DAAB'
     - '#C6E0F1'
     - '#435F6F'
+  brandStrength: 0.8802363
+  lightness: 0.124855
+  saturation: 0.0625
   rhythmicContrast: 0.4396635
-typography_spectrum: 0.5934479
-name: Sabbath Brewing Co.
+purpose: []
